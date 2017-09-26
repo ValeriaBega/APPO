@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1489187889 source:c:\users\begav_000\desktop\restante\appoo-master\appoo-master\lab#1\src\game.cpp
+	"Game.h"
+	"board.h"
+	"Player.h"
+
+1489187889 c:\users\begav_000\desktop\restante\appoo-master\appoo-master\lab#1\include\game.h
+	<cassert>
+	<iostream>
+	<string>
+	<ctime>
+	"constants.h"
+
+1489187889 c:\users\begav_000\desktop\restante\appoo-master\appoo-master\lab#1\include\constants.h
+
+1489187889 c:\users\begav_000\desktop\restante\appoo-master\appoo-master\lab#1\include\board.h
+	<iostream>
+	<cassert>
+	"constants.h"
+	"functions.h"
+
+1489187889 c:\users\begav_000\desktop\restante\appoo-master\appoo-master\lab#1\include\functions.h
+	<iostream>
+	<string>
+	<sstream>
+	<cassert>
+	"constants.h"
+
+1489187889 c:\users\begav_000\desktop\restante\appoo-master\appoo-master\lab#1\include\player.h
+	<string>
+	<ctime>
+	<stdlib.h>
+	"constants.h"
+	"functions.h"
+	"board.h"
+
+1489187889 source:c:\users\begav_000\desktop\restante\appoo-master\appoo-master\lab#1\src\player.cpp
+	"Player.h"
+	"board.h"
+
+1489187889 source:c:\users\begav_000\desktop\restante\appoo-master\appoo-master\lab#1\src\board.cpp
+	"board.h"
+
+1489187889 source:c:\users\begav_000\desktop\restante\appoo-master\appoo-master\lab#1\src\functions.cpp
+	"functions.h"
+
+1489187889 source:c:\users\begav_000\desktop\restante\appoo-master\appoo-master\lab#1\main.cpp
+	<iostream>
+	"functions.h"
+	"Game.h"
+
